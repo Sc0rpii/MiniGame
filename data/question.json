@@ -1,0 +1,35 @@
+{
+    "thisorthat":[
+        {"left": "Pizza 🍕", "right": "Sushi 🍣"},
+        {"left": "Mare 🌊 ", "right": "Montagna ⛰️"},
+        {"left": "Netflix 📺", "right": "Cinema 🎥"},
+        {"left": "Caffè ☕️", "right": "Thè 🍵"},
+        {"left": "Notte 🌙", "right": "Mattina 🌅"},
+        {"left": "Cane 🐶", "right": "Gatto 🐱"},
+        {"left": "Estate ☀️", "right": "Inverno ❄️"},
+        {"left": "Messaggi 💬", "right": "Chiamate 📞"},
+        {"left": "Dolce 🍰", "right": "Salato 🧂"},
+        {"left": "Sneakers 👟", "right": "Eleganti 👠"}
+    ],
+    "domandeAperte":[
+        "Cosa ti fa sentire veramente a tuo agio con qualcuno?",
+        "Qual è una cosa che ti rende felice senza motivo?",
+        "Come ti piace essere coccolata?",
+        "Qual è una cosa che ti interessa davvero in una persona?",
+        "Cosa ti fa subito simpatizzare con qualcuno?",
+        "Qual è un sogno che vorresti realizzare presto?",
+        "Di cosa sei più orgogliosa?",
+        "Qual è il gesto romantico più bello che hai ricevuto?",
+        "Cosa ti mette a tuo agio in una relazione?"
+    ],
+    "compatibility": [
+        {"left": "Abbracci 🤗", "right": "Baci 😘"},
+        {"left": "Uscita tranquilla ✨", "right": "Avventura 🚀"},
+        {"left": "Passeggiata serale 🌆", "right": "Film sul divano 🛋️"},
+        {"left": "Regalo pensato 🎁", "right": "Gesto spontaneo ❤️"},
+        {"left": "Parole dolci 💗", "right": "Atti di cura ✨"},
+        {"left": "Tenersi per mano 🤝", "right": "braccio attorno 💞"},
+        {"left": "Guardare le stelle ✨", "right": "ascoltare musica insieme 🎧"},
+        {"left": "Serata fuori 🍷", "right": "serata a casa 🍿"}
+    ]
+}
