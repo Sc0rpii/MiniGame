@@ -70,7 +70,7 @@ function showFinalOpenResults() {
 
   document.getElementById('go-home').addEventListener('click', () => {
     // se hai una index.html nella root
-    window.location.href = '../inde.html';
+    window.location.href = '../index.html';
   });
 }
 
